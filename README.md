@@ -1,1 +1,3 @@
 # hello-world
+
+hi friend how long we learn this software course during two months......
